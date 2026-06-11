@@ -28,3 +28,5 @@ python main.py Bisman-Singh --token YOUR_TOKEN --charts
 # Export to JSON
 python main.py Bisman-Singh --export-json stats.json
 ```
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
